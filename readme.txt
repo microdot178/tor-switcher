@@ -4,4 +4,5 @@
 'sudo ./switch.sh default' - выключить toriptables2, затем загрузить
 правила iptables/ip6tables, сохраненные ранее
 
-https://github.com/ruped24/toriptables2
+https://github.com/ruped24/toriptables2 - для python2
+https://github.com/keur/toriptables3    - для python3
